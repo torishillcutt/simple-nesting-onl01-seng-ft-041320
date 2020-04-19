@@ -106,7 +106,7 @@ def changing_alan
 			 :languages => ["LISP", "C"]
 		 }
 	}
-     programmer_hash[:alan_kay][:known_for] = "GUI"
+  programmer_hash[:alan_kay][:known_for] = "GUI"
 
 
 end
